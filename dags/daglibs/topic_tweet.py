@@ -1,10 +1,10 @@
 # import tweepy
 # from tweepy.auth import OAuthHandler
 
-consumer_key = ''           # Add your API key here
-consumer_secret = ''        # Add your API secret key here
-access_token = ''           # Add your Access Token key here
-access_token_secret = ''    # Add your Access Token secret key here
+consumer_key = 'SESMt1rmcaW4ULMIJ84O9Ll30'           # Add your API key here
+consumer_secret = 'tyElxPKVw0sCJk7MbtfBTqh713jdabRBemeHYO7TGJsVZoLUI0'        # Add your API secret key here
+access_token = '1613473924981092353-ZKvEaDoj9honytfCgaTLbjBT81uGme'           # Add your Access Token key here
+access_token_secret = 'Wqc9rmVdV7yreoAIQMEEPm3Q0XUqks0FsyZ5z7htSJPXP'    # Add your Access Token secret key here
 
 # Post a tweet
 def post_tweets(tweet):
